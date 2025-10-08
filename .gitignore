@@ -1,6 +1,6 @@
 *.java.hsp
 *.sonarj
-*.sw*
+
 .DS_Store
 bin
 build.sh
